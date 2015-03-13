@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
@@ -92,10 +91,10 @@ Alpha版主要测试消息队列功能，界面和其它功能还在开发中。
 如果消息队列比较稳定了 。后面的开发工作会比较顺利.
 zvchat有望实现消息即时互通,长期困扰开发的难题有望被攻破了。
 
-项目地址：http://zvchat.googlecode.com
+项目地址：https://github.com/netroby/zvchat
 
 zvchat 2.1.6版会是一个独立运行的版本，不依赖Mysql,不依赖其它组件.
-只要支持php，就可以安装运行zvchat。欢迎加qq群 63490795交流互动。
+只要支持php，就可以安装运行zvchat。
 
 作者主页：
 
@@ -124,4 +123,3 @@ zvchat 2.1.6版会是一个独立运行的版本，不依赖Mysql,不依赖其�
 </div>
   </body>
 </html>
-
